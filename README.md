@@ -39,7 +39,7 @@ GOOGLE_CLIENT_SECRET: Your Google Cloud Console Client Secret.
 3. Edit Application Properties
 Navigate to src/main/resources/application.properties and update the database configuration to match your local PostgreSQL setup:
 
-Properties
+
 # Database Configuration
 spring.datasource.url=jdbc:postgresql://localhost:5432/your_db_name
 spring.datasource.username=your_postgres_user
