@@ -1,7 +1,7 @@
 DB-to-Gmail Reporting System
 Full-Stack Java Application | Spring Boot | PostgreSQL | Google OAuth 2.0
 
-📌 Project Overview
+# Project Overview
 A professional automated reporting engine that bridges a relational database with the Gmail REST API. This application allows users to persist data via a web dashboard and trigger high-fidelity HTML email reports containing live database records.
 
 Key Technical Features:
@@ -24,7 +24,7 @@ Build Tool: Gradle.
 
 APIs: Google Gmail REST API.
 
-🚀 Setup & Installation
+# Setup & Installation
 1. Clone the Repository
 Bash
 git clone https://github.com/chasemoskowitz/DB-to-Gmail-Reporting-System.git
@@ -48,6 +48,7 @@ spring.datasource.password=your_postgres_password
 # Security Placeholders (Do not hardcode secrets here)
 spring.security.oauth2.client.registration.google.client-id=${GOOGLE_CLIENT_ID}
 spring.security.oauth2.client.registration.google.client-secret=${GOOGLE_CLIENT_SECRET}
+
 4. Build and Run
 Using Gradle, run the following command to start the server:
 
