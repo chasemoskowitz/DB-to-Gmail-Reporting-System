@@ -27,7 +27,7 @@ APIs: Google Gmail REST API.
 🚀 Setup & Installation
 1. Clone the Repository
 Bash
-git clone https://github.com/chasemoskowitz/DB-to-Gmail-Reporting-System-.git
+git clone https://github.com/chasemoskowitz/DB-to-Gmail-Reporting-System.git
 cd DB-to-Gmail-Reporting-System-
 2. Configure Environment Variables
 To keep credentials secure, this project uses environment variables. Set the following on your local machine:
