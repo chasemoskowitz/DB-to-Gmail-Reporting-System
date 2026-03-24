@@ -47,7 +47,7 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/your_db_name
 spring.datasource.username=your_postgres_user
 spring.datasource.password=your_postgres_password
 
-# Security Placeholders (Do not hardcode secrets here)
+# Security Placeholders 
 spring.security.oauth2.client.registration.google.client-id=${GOOGLE_CLIENT_ID}
 spring.security.oauth2.client.registration.google.client-secret=${GOOGLE_CLIENT_SECRET}
 
