@@ -1,6 +1,8 @@
 DB-to-Gmail Reporting System
 Full-Stack Java Application | Spring Boot | PostgreSQL | Google OAuth 2.0
 
+Link to youtube showcase of website and functionality: https://youtu.be/rj5xqMj4K8M
+
 # Project Overview
 A professional automated reporting engine that bridges a relational database with the Gmail REST API. This application allows users to persist data via a web dashboard and trigger high-fidelity HTML email reports containing live database records.
 
